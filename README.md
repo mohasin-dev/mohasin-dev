@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohasin Hossain
-- 👀 I’m interested in PHP, Laravel, javaScript, mySQL, Vue.js, Nuxt.js, REST API
+- 👀 I’m interested in PHP, Laravel, javaScript, MySQL, Vue.js, Nuxt.js, REST API
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on Laravel core
 - 📫 How to reach me ... by email [mohasin2911@gmail.com](mailto:mohasin2911@gmail.com)
